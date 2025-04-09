@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# NLTK Data
+nltk_data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Replit specific
+.replit
+.pythonlibs/
+replit.nix
+pyproject.toml
+poetry.lock
+.upm/
+uv.lock
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Log files
+*.log
+logs/
+
+# Cache
+.cache/
+__pycache__/
+
+# Media files from processing (optional, uncomment if needed)
+# *.mp3
+# *.wav
+# *.mp4
+# *.avi
